@@ -1,11 +1,11 @@
 {
-    "name": "mmd",
-    "short_name": "mmd",
+    "name": "MML WALLET",
+    "short_name": "MML WALLET",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A decentralize wallet",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
