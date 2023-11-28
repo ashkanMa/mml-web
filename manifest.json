@@ -3,7 +3,7 @@
     "short_name": "MML WALLET",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#1f2427",
+    "background_color": "#ffffff",
     "theme_color": "#1f2427",
     "description": "A decentralize wallet",
     "orientation": "portrait-primary",
